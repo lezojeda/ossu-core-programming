@@ -1,3 +1,4 @@
+# how to design functions recipe
 ## 1. signature, purpose and stub
 ### signature
 type of data it consumes and produces
