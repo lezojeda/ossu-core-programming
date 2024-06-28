@@ -5,3 +5,4 @@ introduces the basics of Racket language, a dialect of [Lisp](https://en.wikiped
 - a systematic step by step approach for creating functions
 - [recipe](https://github.com/luz-ojeda/ossu-core-cs/blob/main/systematic-program-design/how-to-design-functions/htdf%20recipe.md)
 ## 2. How to design data
+- [recipe](https://github.com/luz-ojeda/ossu-core-cs/blob/main/systematic-program-design/how-to-design-data/htdd%20recipe.md)
