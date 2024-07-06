@@ -7,3 +7,5 @@ introduces the basics of Racket language, a dialect of [Lisp](https://en.wikiped
 ## 2. How to design data
 - [recipe](https://github.com/luz-ojeda/ossu-core-cs/blob/main/systematic-program-design/how-to-design-data/htdd%20recipe.md)
 - the **structure of the information** in the program's domain determines the kind of data definition used which in turn determines **the structure of the templates** and helps determine the function examples (check-expects), and therefore the **structure of much of the final program design**.
+## 3. How to design worlds
+- interactive programs
