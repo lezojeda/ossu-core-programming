@@ -9,3 +9,4 @@ introduces the basics of Racket language, a dialect of [Lisp](https://en.wikiped
 - the **structure of the information** in the program's domain determines the kind of data definition used which in turn determines **the structure of the templates** and helps determine the function examples (check-expects), and therefore the **structure of much of the final program design**.
 ## 3. How to design worlds
 - interactive programs
+- [recipe](https://github.com/luz-ojeda/ossu-core-cs/blob/main/systematic-program-design/how-to-design-worlds/htdw%20recipe.md)
