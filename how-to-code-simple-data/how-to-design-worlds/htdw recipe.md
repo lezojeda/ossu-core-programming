@@ -10,5 +10,6 @@ the parameters to use from the `big-bang` function
 ### data definitions using [[htdd recipe]]
 ### functions using [[htdf recipe]]
 #### main first (based on 1.3, 1.4 and 2.2 above)
-#### wish list entriesfor big-bang handlers
+#### wish list entries for big-bang handlers
+using `!!!` comment after function description
 ### work through wish list until done
