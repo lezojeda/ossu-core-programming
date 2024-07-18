@@ -7,8 +7,20 @@ introduces the basics of Racket language, a dialect of [Lisp](https://en.wikiped
 ## 2. How to design data
 - [recipe](https://github.com/luz-ojeda/ossu-core-cs/blob/main/how-to-code-simple-data/how-to-design-data/htdd%20recipe.md)
 - the **structure of the information** in the program's domain determines the kind of data definition used which in turn determines **the structure of the templates** and helps determine the function examples (check-expects), and therefore the **structure of much of the final program design**.
-## 3. How to design worlds
+## 3a. How to design worlds
 - how to design interactive programs through the [big bang](https://docs.racket-lang.org/teachpack/2htdpuniverse.html#%28form._world._%28%28lib._2htdp%2Funiverse..rkt%29._big-bang%29%29) function
 - made extensive use of the [template](https://github.com/luz-ojeda/ossu-core-cs/blob/main/how-to-code-simple-data/how-to-design-worlds/template%20for%20world%20program.md) in the practice problems, a template that could be used in any other programming language
 - this part of the course is what made me start to realize how good it is and find the true benefits of the _systematic_ approach on designing programs
 - [recipe](https://github.com/luz-ojeda/ossu-core-cs/blob/main/how-to-code-simple-data/how-to-design-worlds/htdw%20recipe.md)
+## 3b. Compound data
+- data definitions of two or more connected values, _similar_ to objects in JavaScript, for example through the `define-struct` primitive
+## 4a. Self reference
+- self refence lets us work with data of arbitrary size
+- introduces a concept very similar to recursion
+## 4b. Reference rule
+- start to work with more than one data definition
+- for example: a list of X that references X
+## 5a. Naturals
+- stemming from previous chapters, self-reference lets us define a `Natural` data definition for numbers between 0 and n, both inclusive
+## 5b. Helpers
+- when and how should I break functions into smaller ones?
