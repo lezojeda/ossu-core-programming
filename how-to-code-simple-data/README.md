@@ -24,5 +24,13 @@ introduces the basics of Racket language, a dialect of [Lisp](https://en.wikiped
 - stemming from previous chapters, self-reference lets us define a `Natural` data definition for numbers between 0 and n, both inclusive
 ## 5b. Helpers
 - when and how should I break functions into smaller ones?
-## 6. Binary Search Trees
+- function composition
+- creating "wishes" that represent functions to be defined afterwards
+## 6a. Binary Search Trees
 - when should binary search trees be used to represent information?
+## 6b. Mutual references
+- how do we work with a list of a compound data type, for example?
+## Final project: space invaders
+- Putting together all things learned in the course a simple [space invaders game](https://github.com/luz-ojeda/ossu-core-cs/blob/main/how-to-code-simple-data/space-invaders.rkt) was developed:
+
+![DrRacket_MMhPotwXBa-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84bce05c-534c-4275-b281-8b7c49c7c614)
