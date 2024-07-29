@@ -24,3 +24,5 @@ introduces the basics of Racket language, a dialect of [Lisp](https://en.wikiped
 - stemming from previous chapters, self-reference lets us define a `Natural` data definition for numbers between 0 and n, both inclusive
 ## 5b. Helpers
 - when and how should I break functions into smaller ones?
+## 6. Binary Search Trees
+- when should binary search trees be used to represent information?

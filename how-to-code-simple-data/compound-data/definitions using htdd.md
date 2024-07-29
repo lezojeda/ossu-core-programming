@@ -1,5 +1,4 @@
-define-struct goes at the beginning of the data definition, before the types comment.
-
+`define-struct` goes at the beginning of the data definition, before the types comment.
 ```racket
 (define-struct ball (x y))
 ;; Ball is (make-ball Number Number)
