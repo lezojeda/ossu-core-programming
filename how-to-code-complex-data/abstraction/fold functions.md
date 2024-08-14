@@ -1,0 +1,1 @@
+**abstract** functions based directly on the template or templates in the case of mutal reference
