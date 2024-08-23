@@ -9,7 +9,10 @@
 - teaches how to refactor functions using this new expression to create encapsulation
 ## 9. Abstraction
 - how do we reduce code repetition into helper functions?
+- introcudes "fold" functions which are functions based on templates
 ## 10a. Generative recursion
+- until this chapter we work only with structural recursion which means that a base case will be reached from the data definition itself, but in *generative* recursion the proof that we'll reach a base case must be developed by us
+- ✨fractals✨
 ## 10b. Search
 ## 11. Accumulators
 ## 12. Graphs
