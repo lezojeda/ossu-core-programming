@@ -14,5 +14,7 @@
 - until this chapter we work only with structural recursion which means that a base case will be reached from the data definition itself, but in *generative* recursion the proof that we'll reach a base case must be developed by us
 - ✨fractals✨
 ## 10b. Search
+- learn to to identify whether a function should be designed using domain knowledge, structural recursion, built-in abstract list functions or generative recursion
+- all through the example of the algorithm for solving a Sudoku puzzle
 ## 11. Accumulators
 ## 12. Graphs
