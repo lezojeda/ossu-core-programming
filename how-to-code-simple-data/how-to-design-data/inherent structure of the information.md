@@ -4,9 +4,8 @@
 - the **structure of the information** in the program's domain determines the kind of data definition used,
 - which in turn determines **the structure of the templates** and helps determine the function examples (check-expects),
 - and therefore the **structure of much of the final program design**.
-
+![[structure flow.png]]
 in other words: *the structure of information flows through*
-![[Pasted image 20240627142608.png]]
 ## information <-> data definition correspondence
 
 | information form                                                                | use a data definition of the kind        | example      |
