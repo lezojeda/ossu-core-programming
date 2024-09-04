@@ -17,4 +17,8 @@
 - learn to to identify whether a function should be designed using domain knowledge, structural recursion, built-in abstract list functions or generative recursion
 - all through the example of the algorithm for solving a Sudoku puzzle
 ## 11. Accumulators
+- what we haven't been able to do so far with recursion is where we have been in the traversal and with the work remaining at each point, accumulators solve these problems
+- identify when a function design requires the use of accumulator
+- work with the accumulator design recipe to design such functions
+- concepts of tail position, tail call and tail recursion
 ## 12. Graphs
