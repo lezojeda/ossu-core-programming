@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to-code-complex-data/accumulators/notes.md",
+                "file": "how-to-code-complex-data/graphs/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to-code-complex-data/accumulators/notes.md",
+                "file": "how-to-code-complex-data/graphs/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-to-code-complex-data/accumulators/notes.md",
+                "file": "how-to-code-complex-data/graphs/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-to-code-complex-data/accumulators/notes.md"
+                "file": "how-to-code-complex-data/graphs/notes.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "8a5e3eb979c9355a",
   "lastOpenFiles": [
+    "how-to-code-complex-data/graphs/practice-problems/graphs.rkt",
+    "how-to-code-complex-data/graphs/practice-problems",
+    "how-to-code-complex-data/graphs/Pasted image 20240905200023.png",
+    "how-to-code-complex-data/graphs/Pasted image 20240905195502.png",
+    "how-to-code-complex-data/README.md",
+    "how-to-code-complex-data/graphs/notes.md",
+    "how-to-code-complex-data/accumulators/notes.md",
+    "how-to-code-complex-data/graphs",
     "how-to-code-complex-data/accumulators/tail-recursion-problems/sum-odds-tr.rkt",
     "how-to-code-complex-data/accumulators/tail-recursion-problems/sum-n-tr.rkt",
     "how-to-code-complex-data/accumulators/tail-recursion-problems/product-tr.rkt",
@@ -156,10 +164,7 @@
     "how-to-code-complex-data/accumulators/#tail-recursion#1#",
     "how-to-code-complex-data/accumulators/#tail-recursion#2#",
     "how-to-code-complex-data/accumulators/tail-recursion~",
-    "how-to-code-complex-data/accumulators/tail-recursion",
     "how-to-code-complex-data/two-one-of-types/cross product table.md",
-    "how-to-code-complex-data/accumulators/notes.md",
-    "how-to-code-complex-data/README.md.md",
-    "how-to-code-complex-data/accumulators"
+    "how-to-code-complex-data/README.md.md"
   ]
 }

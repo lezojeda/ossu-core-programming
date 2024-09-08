@@ -22,3 +22,4 @@
 - work with the accumulator design recipe to design such functions
 - concepts of tail position, tail call and tail recursion
 ## 12. Graphs
+- identify when domain information can and should be represented by a graph

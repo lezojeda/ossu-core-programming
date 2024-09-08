@@ -1,7 +1,7 @@
 three types of accumulators:
 - [[#context preserving]]
 - [[#tail recursion||results so far]]
-- [[worklist]]
+- [[#worklist]]
 ## context preserving
 to preserve the position of the current element being checked in a list, for example
 
@@ -44,3 +44,4 @@ example:
                         (+ acc (first lon)))]))]
     (sum lon0 0)))
 ```
+## worklist
