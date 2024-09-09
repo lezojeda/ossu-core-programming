@@ -3,3 +3,4 @@ Notes and solutions to exercises and problems from [OSSU CS Core](https://github
 ## Systematic Program Design
 ### [How to code simple data](https://github.com/luz-ojeda/ossu-core-cs/tree/main/how-to-code-simple-data)
 ### [How to code complex data](https://github.com/luz-ojeda/ossu-core-cs/tree/main/how-to-code-complex-data)
+### [Programming languages, part A](https://github.com/luz-ojeda/ossu-core-programming/tree/main/programming-languages-part-a)
