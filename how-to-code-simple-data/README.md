@@ -1,4 +1,4 @@
-## [Course](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)
+# [Course](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)
 This course teaches through Racket, a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)), a systematic approach to design programs starting from the data definitions which specifies the templates to be used in the functions later on.
 
 A fundamental takeaway is the one illustrated by this [image](https://github.com/luz-ojeda/ossu-core-cs/blob/main/how-to-code-simple-data/structure%20flow.png). The structure of information leads to the structure of the function templates which in turn determine the overall structure of the program.
