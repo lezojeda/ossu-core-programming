@@ -1,1 +1,3 @@
 # [Course](https://www.coursera.org/learn/programming-languages)
+
+An introduction to the basic concepts of programming languages, with a strong emphasis on **functional** programming. Uses the languages **ML** (in Part A), **Racket** (in Part B), and **Ruby** (in Part C) as vehicles for teaching the concepts, but the real intent is to teach enough about how any language “fits together” to make one more effective programming in any language -- and in learning new ones. 
