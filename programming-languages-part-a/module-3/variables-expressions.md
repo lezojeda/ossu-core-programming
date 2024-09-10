@@ -34,3 +34,5 @@ then, for each expression, we can ask:
 	- evaluate `e1` to `v1`
 	- evaluate `e2` to `v2`
 	- if `v1` is less than `v2` then the whole expression evaluates to `true`, otherwise to `false`
+## immutability
+in SML, bindings are *immutable*. Given an expression `val e1 = v1`, that creates a *dynamic* environment where `e1` is `v1`, we could later on say `val e1 = v2` but that creates *another* dynamic environment. We are not reassigning `e1`. This is **shadowing**. The later dynamic environment shadows the first one.
