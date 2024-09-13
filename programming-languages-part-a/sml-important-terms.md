@@ -1,7 +1,0 @@
-- **binding**
-	- variable binding
-	- [[functions|function binding]]
-- **expression**
-- **value**: an expression that has no more computation to do. "All values are expressions but not all expressions are values"
-- **static environment**: the *types* of the preceding bindings
-- **dynamic environment**: the *values* of the preceding bindings
