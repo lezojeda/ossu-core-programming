@@ -15,7 +15,7 @@ fun max2 (xs : int list) =
 	then NONE
 	else let (* fine to assume argument nonempty because it is local *)
 		fun max_nonempty (xs : int list) =
-			if null (tl xs) (* xs better not be [] *)
+		t	if null (tl xs) (* xs must not be [] *)
 			then hd xs
 			else let val tl_ans = max_nonempty(tl xs)
 				in
