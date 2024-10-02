@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea88e7679b796bf",
+        "id": "80e6e894c8be1d0f",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5e3eb979c9355a",
+            "id": "f139939ec3e883e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to-code-complex-data/graphs/notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to-code-complex-data/graphs/notes.md",
-                "collapseAll": false,
+                "file": "README.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-to-code-complex-data/graphs/notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-to-code-complex-data/graphs/notes.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,24 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a5e3eb979c9355a",
+  "active": "f139939ec3e883e8",
   "lastOpenFiles": [
-    "how-to-code-complex-data/graphs/practice-problems/graphs.rkt",
-    "how-to-code-complex-data/graphs/practice-problems",
+    "programming-languages-part-a/module-5/test.sml",
+    "programming-languages-part-a/module-5/first-class-functions.md",
+    "programming-languages-part-a/module-4/exceptions.md",
+    "programming-languages-part-a/module-4/recursion-accumulators.md",
+    "programming-languages-part-a/module-5/section3sum.pdf",
+    "programming-languages-part-a/module-5",
+    "programming-languages-part-a/module-4/hw2.pdf",
+    "programming-languages-part-a/module-4/hw2/hw2.sml",
+    "programming-languages-part-a/README.md",
+    "programming-languages-part-a/module-4/hw2/tests.sml",
+    "programming-languages-part-a/module-4/hw2/hw2.pdf",
+    "programming-languages-part-a/module-4/hw2/hw2provided.sml",
+    "programming-languages-part-a/module-4/hw2/_bb712e620e1c46bbc8ce7ebb7a7cac05_hw2.pdf",
+    "programming-languages-part-a/module-4/hw2",
+    "programming-languages-part-a/module-4/Untitled Folder",
+    "programming-languages-part-a/module-4/pattern-matching.md",
+    "programming-languages-part-a/module-4/polymorphic-equality-types.md",
+    "programming-languages-part-a/module-4/compound-types.md",
+    "programming-languages-part-a/module-4/datatype-bindings.md",
+    "programming-languages-part-a/benefits of no mutation.md",
+    "programming-languages-part-a/module-4/type-synonyms.md",
+    "programming-languages-part-a/sml-important-terms-and-concepts.md",
+    "how-to-code-complex-data/accumulators/notes.md",
+    "programming-languages-part-a/pieces-of-a-language.md",
+    "programming-languages-part-a/module-3/options.md",
+    "programming-languages-part-a/module-3/variables-expressions.md",
+    "programming-languages-part-a/module-3/lists.md",
+    "programming-languages-part-a/module-3/let expressions.md",
+    "programming-languages-part-a/module-3/Untitled.md",
+    "programming-languages-part-a/module-3/functions.md",
+    "how-to-code-complex-data/graphs/notes.md",
     "how-to-code-complex-data/graphs/Pasted image 20240905200023.png",
     "how-to-code-complex-data/graphs/Pasted image 20240905195502.png",
     "how-to-code-complex-data/README.md",
-    "how-to-code-complex-data/graphs/notes.md",
-    "how-to-code-complex-data/accumulators/notes.md",
-    "how-to-code-complex-data/graphs",
-    "how-to-code-complex-data/accumulators/tail-recursion-problems/sum-odds-tr.rkt",
-    "how-to-code-complex-data/accumulators/tail-recursion-problems/sum-n-tr.rkt",
-    "how-to-code-complex-data/accumulators/tail-recursion-problems/product-tr.rkt",
-    "how-to-code-complex-data/accumulators/tail-recursion-problems/average-tr.rkt",
-    "how-to-code-complex-data/accumulators/tail-recursion-problems",
-    "how-to-code-complex-data/accumulators/#tail-recursion#1#",
-    "how-to-code-complex-data/accumulators/#tail-recursion#2#",
-    "how-to-code-complex-data/accumulators/tail-recursion~",
     "how-to-code-complex-data/two-one-of-types/cross product table.md",
     "how-to-code-complex-data/README.md.md"
   ]

@@ -7,7 +7,7 @@ what are typical patterns for using language features to express your computatio
 ## 4. libraries
 what facilities does the language provide "standard"? e.g. file access, data strutures
 ## 5. tools
-what do languag eimplementations provide to make your job easier? e.g. REPL debugger code formatter
+what do language implementations provide to make your job easier? e.g. REPL debugger code formatter
 ## focus
 the focus of the course it is on **semantics** and **idioms**
 

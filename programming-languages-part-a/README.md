@@ -10,3 +10,4 @@ An introduction to the basic concepts of programming languages, with a strong em
 - first-class functions and *idioms* using them
 - function closures
 - `map`, `filter`
+- currying
