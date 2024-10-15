@@ -11,3 +11,8 @@ An introduction to the basic concepts of programming languages, with a strong em
 - function closures
 - `map`, `filter`
 - currying
+## Module 6
+- how ML does type inference
+- mutual recursion
+- module system -> encapsulation and abstraction
+- when are two functions *equivalent* and what does that mean?
