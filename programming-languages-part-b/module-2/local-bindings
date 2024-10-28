@@ -1,0 +1,22 @@
+#lang racket
+(provide (all-defined-out))
+
+;; there are many ways to define local variables
+;; let: bind any number of local variables
+;; let*
+;; letrec: evaluate bindings in order declared 
+;; define
+
+;; using define and let
+(define (max-of-list xs)
+  (cond [(null? xs) (error "max-of-list given empty list")]
+        [(null? (cdr xs)) (car xs)]
+        [#t (let ([tlans (max-of-list (cdr xs))])
+              (if (> tlans (car xs))
+                  tlans
+                  (car xs)))]))
+
+(define (f x) (+ x (* x b))) ;can refer to forward variables
+(define b 3)
+(define c (+ b 4)) ;can refer to previous bindings
+;(define c 1) ;invalid, can't define a variable with a name already used

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80e6e894c8be1d0f",
+        "id": "e71edd5e672bfa23",
         "type": "tabs",
         "children": [
           {
-            "id": "f139939ec3e883e8",
+            "id": "9cc280a7e8a8e2ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "programming-languages-part-b/module-2/delayed-evaluation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for delayed-evaluation"
             }
           },
           {
@@ -102,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "programming-languages-part-b/module-2/delayed-evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from delayed-evaluation"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "programming-languages-part-b/module-2/delayed-evaluation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of delayed-evaluation"
             }
           }
         ],
@@ -134,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,23 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f139939ec3e883e8",
+  "active": "9cc280a7e8a8e2ac",
   "lastOpenFiles": [
-    "programming-languages-part-a/module-5/test.sml",
+    "programming-languages-part-b/module-2/#hw4.rkt#1#",
+    "programming-languages-part-b/module-2/#hw4.rkt#2#",
+    "programming-languages-part-b/module-2/hw4.rkt~",
+    "programming-languages-part-b/module-2/hw4.rkt",
+    "programming-languages-part-b/module-2/hw4test.rkt",
+    "programming-languages-part-b/module-2/hw4.pdf",
+    "programming-languages-part-b/module-2/_0a7abf2d547898379a708c2c16cf48bd_hw4.rkt",
+    "programming-languages-part-b/module-2/_499c8188a728fb71716349e35b448895_hw4test.rkt",
+    "programming-languages-part-b/module-2/#streams.rkt#1#",
+    "programming-languages-part-b/module-2/streams.rkt",
+    "programming-languages-part-b/module-2/syntax-and-parentheses.md",
+    "programming-languages-part-b/module-2/delayed-evaluation.md",
+    "programming-languages-part-b/module-2/#local-bindings#1#",
+    "programming-languages-part-a/module-6/type inference.md",
+    "programming-languages-part-a/module-6/polymorphism.md",
+    "p.md",
+    "README.md",
     "programming-languages-part-a/module-5/first-class-functions.md",
     "programming-languages-part-a/module-4/exceptions.md",
     "programming-languages-part-a/module-4/recursion-accumulators.md",
-    "programming-languages-part-a/module-5/section3sum.pdf",
-    "programming-languages-part-a/module-5",
-    "programming-languages-part-a/module-4/hw2.pdf",
-    "programming-languages-part-a/module-4/hw2/hw2.sml",
     "programming-languages-part-a/README.md",
-    "programming-languages-part-a/module-4/hw2/tests.sml",
-    "programming-languages-part-a/module-4/hw2/hw2.pdf",
-    "programming-languages-part-a/module-4/hw2/hw2provided.sml",
-    "programming-languages-part-a/module-4/hw2/_bb712e620e1c46bbc8ce7ebb7a7cac05_hw2.pdf",
-    "programming-languages-part-a/module-4/hw2",
-    "programming-languages-part-a/module-4/Untitled Folder",
     "programming-languages-part-a/module-4/pattern-matching.md",
     "programming-languages-part-a/module-4/polymorphic-equality-types.md",
     "programming-languages-part-a/module-4/compound-types.md",
@@ -178,11 +197,7 @@
     "programming-languages-part-a/module-3/let expressions.md",
     "programming-languages-part-a/module-3/Untitled.md",
     "programming-languages-part-a/module-3/functions.md",
-    "how-to-code-complex-data/graphs/notes.md",
     "how-to-code-complex-data/graphs/Pasted image 20240905200023.png",
-    "how-to-code-complex-data/graphs/Pasted image 20240905195502.png",
-    "how-to-code-complex-data/README.md",
-    "how-to-code-complex-data/two-one-of-types/cross product table.md",
-    "how-to-code-complex-data/README.md.md"
+    "how-to-code-complex-data/graphs/Pasted image 20240905195502.png"
   ]
 }
