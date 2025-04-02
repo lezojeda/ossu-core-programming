@@ -14,3 +14,5 @@ They form a **useful combination** of dynamically/statically typed and one OO (R
 | **object-oriented** | Ruby              | Java/C#/Scala    |
 ### [Programming languages, part A](https://github.com/luz-ojeda/ossu-core-programming/tree/main/programming-languages-part-a)
 - SML
+### [Programming languages, part B](https://github.com/lezojeda/ossu-core-programming/tree/main/programming-languages-part-b)
+- Racket
